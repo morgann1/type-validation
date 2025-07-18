@@ -1,0 +1,9 @@
+[package]
+name = "morgann1/type-validation"
+description = "Collection of modules for runtime type validation."
+version = "1.0.1"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+include = ["src", "default.project.json"]
+
+[dependencies]
